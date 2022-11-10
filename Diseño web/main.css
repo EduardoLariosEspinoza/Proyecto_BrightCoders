@@ -1,0 +1,40 @@
+* {
+  font-family: 'League Spartan', sans-serif;
+}
+
+.flex-container {
+  margin: 150px;
+}
+
+.description {
+  width: 49%;
+  display: inline-block;
+}
+
+.description h2 {
+  /* font-size: 40px; */
+  font-size: 2.5em;
+  margin-right: 280px;
+  color: rgb(80, 32, 80);
+}
+
+.description p {
+  /* font-size: 40px; */
+  font-size: 15px;
+  margin-right: 180px;
+  color: rgb(137, 137, 137);
+}
+
+.ratings {
+  width: 49%;
+  display: inline-block;
+  color: rgb(80, 32, 80);
+}
+
+.rating_2 {
+  margin-left: 50px;
+}
+
+.rating_3 {
+  margin-left: 100px;
+}
