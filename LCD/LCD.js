@@ -172,5 +172,8 @@ class Processor {
   }
 }
 
-processor = new Processor(8, 4, numbers);
+//number1 = parseInt(prompt("Ingresa alto"));
+//number2 = parseInt(prompt("Ingresa ancho"));
+
+processor = new Processor(2, 3, numbers);
 processor.run([1, 2, 3, 4, 5, 6, 7, 8, 9]);
